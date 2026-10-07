@@ -1,0 +1,24 @@
+---
+title: Butternut Squash Curry with Chickpeas
+meal_type: dinner
+tags:
+- vegetarian
+- mild
+- kid-friendly
+- midweek
+- curry
+- one-pot
+active: true
+source: MJ and Hungryman
+source_url: https://www.mjandhungryman.com/butternut-squash-red-curry/
+prep_time: 15
+cook_time: 18
+final_cook_time: 15
+is_regular: false
+---
+
+## Note
+Full recipe text is not published here (third-party copyright).
+Use the source link with your own subscription/access:
+https://www.mjandhungryman.com/butternut-squash-red-curry/
+Or cook from memory and keep private notes locally.

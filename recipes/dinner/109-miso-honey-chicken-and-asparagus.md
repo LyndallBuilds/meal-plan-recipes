@@ -1,0 +1,22 @@
+---
+title: Miso-Honey Chicken and Asparagus
+meal_type: dinner
+tags:
+- chicken
+- sheet-pan
+- weeknight
+- mild
+active: true
+source: New York Times Cooking (Yossy Arefi)
+source_url: https://cooking.nytimes.com/recipes/1023863-miso-honey-chicken-and-asparagus
+prep_time: 10
+cook_time: 10
+final_cook_time: 2
+is_regular: false
+---
+
+## Note
+Full recipe text is not published here (third-party copyright).
+Use the source link with your own subscription/access:
+https://cooking.nytimes.com/recipes/1023863-miso-honey-chicken-and-asparagus
+Or cook from memory and keep private notes locally.
