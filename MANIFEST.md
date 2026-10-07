@@ -4,14 +4,14 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 
 ## Counts
 
-- **Full recipes:** 37
-- **Stubs:** 159
-- **Skipped:** 2
+- **Full recipes:** 49
+- **Stubs:** 147
+- **Skipped:** 0
 - **Ambiguous stubs (conservative):** 0
 
 ## Stubs by category
 
-- **Solid Starts:** 112
+- **Solid Starts:** 100
 - **NYT:** 24
 - **MJ and Hungryman:** 9
 - **Yummy Toddler Food:** 8
@@ -49,6 +49,13 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/adult-snack/10-smoked-salmon-cucumber-rounds.md` — Smoked Salmon Cucumber Rounds _(source: MIND-aligned snack)_
 - `recipes/bakes/oat-apple-energy-bites.md` — Oat and Apple No-Bake Bites _(source: Family meal planner)_
 - `recipes/bakes/zucchini-cheddar-mini-muffins.md` — Zucchini Cheddar Mini Muffins _(source: Family meal planner)_
+- `recipes/breakfast/01-almond-butter-yogurt.md` — Almond Butter Yogurt _(source: Family meal planner)_
+- `recipes/breakfast/02-avocado-toast-and-spears.md` — Avocado Toast and Spears _(source: Family meal planner)_
+- `recipes/breakfast/08-egg-salad-with-avocado.md` — Egg Salad with Avocado _(source: Family meal planner)_
+- `recipes/breakfast/11-peanut-butter-yogurt.md` — Peanut Butter Yogurt _(source: Family meal planner)_
+- `recipes/breakfast/14-ricotta-cheese-berry-bowl.md` — Ricotta Cheese Berry Bowl _(source: Family meal planner)_
+- `recipes/breakfast/16-scrambled-eggs-with-sliced-avocado.md` — Scrambled Eggs with Avocado Spears _(source: Family meal planner)_
+- `recipes/breakfast/21-apple-cinnamon-oatmeal.md` — Apple Cinnamon Oatmeal _(source: Family meal planner)_
 - `recipes/breakfast/45-overnight-cinnamon-apple-oats.md` — Overnight Cinnamon Apple Oats _(source: Family meal planner)_
 - `recipes/breakfast/46-ricotta-pear-chia-bowl.md` — Ricotta, Pear, and Chia Bowl _(source: Family meal planner)_
 - `recipes/breakfast/47-cottage-cheese-fruit-bowl.md` — Cottage Cheese Fruit Bowl _(source: Family meal planner)_
@@ -57,6 +64,11 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/dinner/97-lemon-herb-baked-cod-broccoli.md` — Lemon-Herb Baked Cod with Broccoli _(source: Family meal planner)_
 - `recipes/dinner/98-one-pan-chicken-thighs-root-veg.md` — One-Pan Roasted Chicken Thighs and Root Vegetables _(source: Family meal planner)_
 - `recipes/dinner/99-coconut-lime-tofu-rice-bowls.md` — Coconut-Lime Tofu Rice Bowls _(source: Family meal planner)_
+- `recipes/lunch/01-avocado-egg-salad.md` — Avocado Egg Salad _(source: Family meal planner)_
+- `recipes/lunch/05-caprese-salad.md` — Caprese (Basil, Mozzarella, and Tomato Salad) _(source: Family meal planner)_
+- `recipes/lunch/11-hummus-and-cucumber.md` — Hummus + Cucumber Spears _(source: Family meal planner)_
+- `recipes/lunch/15-nut-butter-yogurt-and-banana.md` — Nut Butter Yogurt + Banana _(source: Family meal planner)_
+- `recipes/lunch/28-avocado-and-tomato-and-yogurt.md` — Avocado + Tomato + Yogurt _(source: Family meal planner)_
 - `recipes/lunch/70-turkey-apple-quesadilla.md` — Turkey, Apple, and Cheese Quesadilla _(source: Family meal planner)_
 - `recipes/lunch/71-mediterranean-chickpea-salad-pita.md` — Mediterranean Chickpea Salad + Pita _(source: Family meal planner)_
 
@@ -71,25 +83,18 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/bakes/egg-cheese-mini-muffins.md` — Mini Egg Muffins with Cheese and Veggies [Yummy Toddler Food] _(source: Yummy Toddler Food)_ — https://www.yummytoddlerfood.com/egg-and-cheese-mini-muffins/
 - `recipes/bakes/lunchbox-harvest-muffins.md` — Lunchbox Harvest Muffins [NYT] _(source: New York Times Cooking (Melissa Clark))_ — https://cooking.nytimes.com/recipes/1015211-lunchbox-harvest-muffins
 - `recipes/bakes/spinach-banana-muffins.md` — Sweet Spinach Muffins with Banana [Yummy Toddler Food] _(source: Yummy Toddler Food)_ — https://www.yummytoddlerfood.com/super-green-banana-spinach-muffins/
-- `recipes/breakfast/01-almond-butter-yogurt.md` — Almond Butter Yogurt [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
-- `recipes/breakfast/02-avocado-toast-and-spears.md` — Avocado Toast and Spears [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/03-black-bean-bowl.md` — Black Bean Bowl [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/07-coconut-chia-seed-pudding.md` — Coconut Chia Seed Pudding [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/07b-berry-chia-seed-pudding.md` — Berry Chia Seed Pudding [Solid Starts] _(source: Adapted from Solid Starts)_ — https://solidstarts.com
 - `recipes/breakfast/07c-mango-chia-seed-pudding.md` — Mango Chia Seed Pudding [Solid Starts] _(source: Adapted from Solid Starts)_ — https://solidstarts.com
 - `recipes/breakfast/07d-stone-fruit-chia-seed-pudding.md` — Stone Fruit Chia Seed Pudding [Solid Starts] _(source: Adapted from Solid Starts)_ — https://solidstarts.com
-- `recipes/breakfast/08-egg-salad-with-avocado.md` — Egg Salad with Avocado [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/09-egg-tofu-scramble.md` — Egg Tofu Scramble [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/10-lemony-ricotta-cheese-two-ways.md` — Lemony Ricotta Cheese Two Ways [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
-- `recipes/breakfast/11-peanut-butter-yogurt.md` — Peanut Butter Yogurt [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/12-pumpkin-seed-butter-yogurt.md` — Pumpkin Seed Butter Yogurt [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/13-purple-oatmeal.md` — Purple Oatmeal [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
-- `recipes/breakfast/14-ricotta-cheese-berry-bowl.md` — Ricotta Cheese Berry Bowl [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/15-sardine-tomato-salad.md` — Sardine Tomato Salad [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
-- `recipes/breakfast/16-scrambled-eggs-with-sliced-avocado.md` — Scrambled Eggs with Avocado Spears [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/17-stone-fruit-oatmeal.md` — Stone Fruit Oatmeal [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/20-zucchini-egg-scramble.md` — Zucchini Egg Scramble [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
-- `recipes/breakfast/21-apple-cinnamon-oatmeal.md` — Apple Cinnamon Oatmeal [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/22-apple-compote-and-ricotta-cheese-bowl.md` — Apple Compote and Ricotta Cheese Bowl [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/23-banana-chickpea-flour-pancakes.md` — Banana Chickpea Flour Pancakes [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/24-beans-and-greens-with-turkey-sausage.md` — Beans and Greens with Turkey Sausage [Solid Starts] _(source: Solid Starts Breakfast)_ — https://solidstarts.com
@@ -132,7 +137,7 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/dinner/116-crispy-sheet-pan-noodles-glazed-tofu.md` — Crispy Sheet-Pan Noodles With Glazed Tofu [NYT] _(source: New York Times Cooking (Hetty Lui McKinnon))_ — https://cooking.nytimes.com/recipes/1022637-crispy-sheet-pan-noodles-with-glazed-tofu
 - `recipes/dinner/117-stir-fried-chicken-ketchup.md` — Stir-Fried Chicken With Ketchup [NYT] _(source: New York Times Cooking (Mark Bittman))_ — https://cooking.nytimes.com/recipes/7878-stir-fried-chicken-with-ketchup
 - `recipes/dinner/118-veggie-orzo.md` — Veggie Orzo [Yummy Toddler Food] _(source: Yummy Toddler Food (Amy Palanjian))_ — https://www.yummytoddlerfood.com/veggie-orzo-20-minute/
-- `recipes/dinner/119-sweet-potato-rice-balls.md` — Sweet Potato Rice Balls (with scrambled egg + seaweed) [Instagram / social] _(source: @kidfriendly.meals (Instagram reel) — amounts estimated; reel had no written card)_ — https://www.instagram.com/reel/Dc4GtM4xUMQ/
+- `recipes/dinner/119-sweet-potato-rice-balls.md` — Sweet Potato Rice Balls (with scrambled egg + seaweed) [Instagram / social] _(source: '@kidfriendly.meals (Instagram reel) — amounts estimated; reel had no written)_ — https://www.instagram.com/reel/Dc4GtM4xUMQ/
 - `recipes/dinner/12-chickpeas-and-tomatoes-with-north-african-spices-and-yogurt.md` — North African Spiced Chickpeas and Tomatoes with Yogurt [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/dinner/120-shrimp-broccoli-stir-fry.md` — Shrimp and Broccoli Stir Fry [MJ and Hungryman] _(source: MJ and Hungryman)_ — https://www.mjandhungryman.com/shrimp-and-broccoli-stir-fry/
 - `recipes/dinner/121-poached-cod-creamy-orzo.md` — Poached Cod with Creamy Orzo [MJ and Hungryman] _(source: MJ and Hungryman)_ — https://www.mjandhungryman.com/poached-cod-with-orzo/
@@ -187,17 +192,13 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/dinner/96-beets-yogurt-dill.md` — Beets with Yogurt and Dill [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/dinner/baked-salmon-veggies.md` — Baked Salmon with Roasted Vegetables [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/hosting-dinner/sides/01-roast-pumpkin-dukkha-pomegranate.md` — Roast Pumpkin with Dukkha and Pomegranate [Epicurious] _(source: Nigel Slater, The Christmas Chronicles (p. 149); photo from Lyndall’s book)_ — https://www.epicurious.com/recipes/food/views/roast-pumpkin-with-dukkah-and-pomegranate
-- `recipes/lunch/01-avocado-egg-salad.md` — Avocado Egg Salad [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/02-black-eyed-peas-tomato.md` — Black-Eyed Peas + Tomato [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/04-cannellini-bean-dip-steamed-green-beans.md` — Cannellini Bean Dip + Steamed Green Beans [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
-- `recipes/lunch/05-caprese-salad.md` — Caprese (Basil, Mozzarella, and Tomato Salad) [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/07-deli-style-egg-salad.md` — Deli-Style Egg Salad [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/09-garlic-butter-ramen-noodles-cauliflower.md` — Garlic Butter Ramen Noodles + Cauliflower [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/10-grated-beet-and-carrot-yogurt.md` — Grated Beet and Carrot + Yogurt [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
-- `recipes/lunch/11-hummus-and-cucumber.md` — Hummus + Cucumber Spears [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/13-mushroom-and-spinach-quesadilla.md` — Mushroom and Spinach Quesadilla [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/14-mushroom-scramble-and-avocado.md` — Mushroom Scramble + Avocado [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
-- `recipes/lunch/15-nut-butter-yogurt-and-banana.md` — Nut Butter Yogurt + Banana [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/16-peanut-butter-rice-noodles-and-broccoli.md` — Peanut Butter Rice Noodles + Broccoli [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/17-pumpkin-seed-butter-applesauce-and-cauliflower.md` — Pumpkin Seed Butter Applesauce + Cauliflower Florets [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/18-sardines-two-ways-and-avocado-yogurt-dip.md` — Sardines Two Ways + Avocado Yogurt Dip [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
@@ -206,7 +207,6 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/lunch/23-summer-squash-scramble-and-black-beans.md` — Summer Squash Scramble + Black Beans [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/25-zucchini-and-carrot-scramble-and-avocado.md` — Zucchini and Carrot Scramble + Avocado [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/26-apple-butter-grilled-cheese-and-kidney-beans.md` — Apple Butter Grilled Cheese + Kidney Beans [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
-- `recipes/lunch/28-avocado-and-tomato-and-yogurt.md` — Avocado + Tomato + Yogurt [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/30-farmers-lunch.md` — Farmer's Lunch [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/31-kidney-beans-and-ricotta-toast.md` — Kidney Beans + Ricotta Toast [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/32-lemony-egg-noodles-and-broccoli.md` — Lemony Egg Noodles + Broccoli [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
@@ -221,20 +221,3 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/lunch/69-rainbow-egg-cups.md` — Rainbow Egg Cups [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/turkey-veggie-wraps.md` — Turkey and Veggie Wraps [Solid Starts] _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/salads/charred-bok-choy-cannellini-bean-salad.md` — Charred Bok Choy and Cannellini Bean Salad [NYT] _(source: New York Times Cooking (Hetty Lui McKinnon))_ — https://cooking.nytimes.com/recipes/1025398-charred-bok-choy-and-cannellini-bean-salad
-
-## Ambiguous / conservative stubs
-
-These are not NYT/Solid Starts, but were stubbed conservatively because the source looks third-party (social screenshots/saves or named non-household recipe brands):
-
-- `recipes/breakfast/48-carrot-banana-pancakes.md` — Carrot and Banana Pancakes _(source: Instagram (@yummy_little_belly))_
-- `recipes/breakfast/50-easy-breakfast-muffins.md` — Easy Breakfast Muffins _(source: Instagram (@yummy_little_belly))_
-- `recipes/brunch/01-mediterranean-escape-spread.md` — 25-Minute Mediterranean Escape Spread _(source: Social media (screenshot))_
-- `recipes/dinner/119-sweet-potato-rice-balls.md` — Sweet Potato Rice Balls (with scrambled egg + seaweed) _(source: @kidfriendly.meals (Instagram reel) — amounts estimated; reel had no written card)_
-- `recipes/dinner/134-lazy-beef-udon.md` — Lazy Beef Udon (Dumb Dinners) _(source: Dumb Dinners (Lazy Beef Udon))_
-
-
-## Skipped
-
-- `Untitled` — non-recipe junk note
-- `bundt-cakes/README.md` — non-recipe README
-
