@@ -15,7 +15,7 @@ prep_time: 15
 cook_time: 25
 final_cook_time: 15
 is_regular: false
-household_note: Workable with tweaks — use mild sauce only; skip jalapeño for Leo + twins.
+household_note: Workable with tweaks — use mild sauce only; skip jalapeño for kids.
 ---
 
 ## Note
