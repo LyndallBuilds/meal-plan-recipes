@@ -5,14 +5,14 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 ## Counts
 
 - **Full recipes:** 59
-- **Stubs:** 156
+- **Stubs:** 164
 - **Skipped:** 0
 - **Ambiguous stubs (conservative):** 0
 
 ## Stubs by category
 
 - **Solid Starts:** 100
-- **NYT:** 24
+- **NYT:** 32
 - **Yummy Toddler Food:** 17
 - **MJ and Hungryman:** 9
 - **Instagram / social:** 4
@@ -170,7 +170,15 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/dinner/144-instant-pot-butter-chicken.md` — Instant Pot Butter Chicken _(source: Yummy Toddler Food (Amy Palanjian))_ — https://www.yummytoddlerfood.com/easy-instant-pot-butter-chicken/
 - `recipes/dinner/145-pesto-chicken-and-rice.md` — One-Pot Pesto Chicken and Rice _(source: Yummy Toddler Food (Amy Palanjian))_ — https://www.yummytoddlerfood.com/one-pan-pesto-chicken-and-brown-rice-family-dinner/
 - `recipes/dinner/146-mini-bean-tacos.md` — Mini Bean Tacos _(source: Yummy Toddler Food (Amy Palanjian))_ — https://www.yummytoddlerfood.com/mini-tacos/
+- `recipes/dinner/147-avgolemono-chicken-soup-gnocchi.md` — Avgolemono Chicken Soup With Gnocchi _(source: New York Times Cooking (Carolina Gelen))_ — https://cooking.nytimes.com/recipes/1026348-avgolemono-chicken-soup-with-gnocchi
+- `recipes/dinner/148-citrus-soy-chicken-ramen.md` — Citrus-Soy Chicken Ramen _(source: New York Times Cooking (Christian Reynoso))_ — https://cooking.nytimes.com/recipes/1026647-citrus-soy-chicken-ramen
+- `recipes/dinner/149-chicken-noodle-soup.md` — Chicken Noodle Soup _(source: New York Times Cooking (Ali Slagle))_ — https://cooking.nytimes.com/recipes/1024338-chicken-noodle-soup
 - `recipes/dinner/15-edamame-and-peanut-noodles-sesame-broccoli.md` — Edamame and Peanut Noodles + Sesame Broccoli _(source: Solid Starts)_ — https://solidstarts.com
+- `recipes/dinner/150-rotisserie-chicken-salad-greens-herbs.md` — Rotisserie Chicken Salad With Greens and Herbs _(source: New York Times Cooking (Sam Sifton))_ — https://cooking.nytimes.com/recipes/1019999-rotisserie-chicken-salad-with-greens-and-herbs
+- `recipes/dinner/151-chicken-red-lentil-soup-lemony-yogurt.md` — Chicken and Red Lentil Soup With Lemony Yogurt _(source: New York Times Cooking (Andy Baraghani))_ — https://cooking.nytimes.com/recipes/1026473-chicken-and-red-lentil-soup-with-lemony-yogurt
+- `recipes/dinner/152-rotisserie-chicken-greens-pasta.md` — Rotisserie Chicken and Greens Pasta _(source: New York Times Cooking (Christian Reynoso))_ — https://cooking.nytimes.com/recipes/1023870-rotisserie-chicken-and-greens-pasta
+- `recipes/dinner/153-chicken-enchiladas.md` — Chicken Enchiladas _(source: New York Times Cooking (Rick Martínez))_ — https://cooking.nytimes.com/recipes/1024437-chicken-enchiladas
+- `recipes/dinner/154-crispy-wonton-chicken-salad.md` — Crispy Wonton Chicken Salad _(source: New York Times Cooking (Eric Kim))_ — https://cooking.nytimes.com/recipes/1023286-crispy-wonton-chicken-salad
 - `recipes/dinner/17-pasta-e-ceci.md` — Pasta e Ceci (Pasta and Chickpeas) _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/dinner/18-savory-chickpea-pancakes-with-garlicky-spinach-and-yogurt.md` — Savory Chickpea Pancakes with Garlicky Spinach and Yogurt _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/dinner/19-tingly-tofu-coconut-rice.md` — Tingly Tofu + Coconut Rice _(source: Solid Starts)_ — https://solidstarts.com
