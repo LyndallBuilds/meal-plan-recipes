@@ -15,9 +15,9 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - **NYT:** 32
 - **Yummy Toddler Food:** 17
 - **MJ and Hungryman:** 9
-- **Instagram / social:** 4
+- **Instagram / social:** 3
+- **Other:** 2
 - **Dumb Dinners:** 1
-- **Other:** 1
 
 ## Full recipes
 
@@ -216,7 +216,7 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/dinner/87-tortilla-espanola-potato-onion-omelet.md` — Tortilla Espanola (Potato and Onion Omelet) with Red Pepper Dip _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/dinner/96-beets-yogurt-dill.md` — Beets with Yogurt and Dill _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/dinner/baked-salmon-veggies.md` — Baked Salmon with Roasted Vegetables _(source: Solid Starts)_ — https://solidstarts.com
-- `recipes/hosting-dinner/sides/01-roast-pumpkin-dukkha-pomegranate.md` — Roast Pumpkin with Dukkha and Pomegranate _(source: Nigel Slater, The Christmas Chronicles (p. 149); photo from Lyndall’s book)_ — https://www.epicurious.com/recipes/food/views/roast-pumpkin-with-dukkah-and-pomegranate
+- `recipes/hosting-dinner/sides/01-roast-pumpkin-dukkha-pomegranate.md` — Roast Pumpkin with Dukkha and Pomegranate _(source: Nigel Slater, The Christmas Chronicles (p. 149); photo from household copy)_ — https://www.epicurious.com/recipes/food/views/roast-pumpkin-with-dukkah-and-pomegranate
 - `recipes/lunch/02-black-eyed-peas-tomato.md` — Black-Eyed Peas + Tomato _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/04-cannellini-bean-dip-steamed-green-beans.md` — Cannellini Bean Dip + Steamed Green Beans _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/lunch/07-deli-style-egg-salad.md` — Deli-Style Egg Salad _(source: Solid Starts)_ — https://solidstarts.com

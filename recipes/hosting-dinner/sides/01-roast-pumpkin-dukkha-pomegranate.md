@@ -10,7 +10,7 @@ tags:
 - make-ahead-spice
 - nigel-slater
 active: true
-source: Nigel Slater, The Christmas Chronicles (p. 149); photo from Lyndall’s book
+source: Nigel Slater, The Christmas Chronicles (p. 149); photo from household copy
 source_url: https://www.epicurious.com/recipes/food/views/roast-pumpkin-with-dukkah-and-pomegranate
 prep_time: 20
 cook_time: 30

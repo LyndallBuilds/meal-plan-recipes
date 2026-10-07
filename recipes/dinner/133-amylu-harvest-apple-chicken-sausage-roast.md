@@ -26,7 +26,7 @@ source_url: https://amylufoods.com/chicken-sausages/organic-chicken-sausages/org
   - Bell pepper strips
   - Zucchini coins
   - Carrot coins or baby carrots
-  - Brussels sprouts, halved (soft-roast longer for Leo)
+  - Brussels sprouts, halved (soft-roast longer for kids)
 - 2–3 tablespoons olive oil or avocado oil
 - Salt and black pepper
 - Optional: ½ teaspoon garlic powder or paprika; fresh apple wedges on the pan for the last 10 minutes; Dijon or ketchup for dipping
@@ -36,7 +36,7 @@ source_url: https://amylufoods.com/chicken-sausages/organic-chicken-sausages/org
 2. Toss the potato chunks with about half the oil, salt, and pepper. Spread in a single layer. Roast 15 minutes.
 3. Toss the vegetables with the remaining oil, salt, and pepper. Pull the pan, push potatoes to the sides, add the veg, and roast another 10–12 minutes until the potatoes are nearly tender and the veg is starting to brown.
 4. Nestle the mini sausage links among the potatoes and veg (no need to cut). Roast until the sausages are hot and lightly browned and everything is tender, about 8–12 minutes more. Total oven time about 35 minutes.
-5. Serve from the pan. Cool kids’ portions; offer soft potatoes and a few sausages first for Leo if veg is a struggle.
+5. Serve from the pan. Cool kids’ portions; offer soft potatoes and a few sausages first if veg is a struggle.
 
 ## Helper Prep Tasks
 - [ ] Cut potatoes into chunks; prep roast veg
@@ -44,6 +44,6 @@ source_url: https://amylufoods.com/chicken-sausages/organic-chicken-sausages/org
 - [ ] Optional dipping sauces
 
 ## Baby Adaptations
-- Sausages are fully cooked; cut mini links lengthwise or into small pieces for twins; watch sodium (serve with plain potato/veg)
+- Sausages are fully cooked; cut mini links lengthwise or into small pieces for younger eaters; watch sodium (serve with plain potato/veg)
 - Soft-roast potatoes and carrots until very tender for younger eaters
 - Skip spicy seasonings; paprika/garlic powder optional for adults only
