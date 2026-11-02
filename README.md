@@ -32,8 +32,9 @@ Folder names and filenames mirror the private library so clones and bots can map
 - **Third-party publisher recipes are stubs only** — frontmatter (title, meal_type, tags, active, source, source_url, and common planning fields) plus a short note. Bodies are **not** published. That includes:
   - New York Times Cooking / nytimes.com
   - Solid Starts / solidstarts.com
-  - Other clearly copyrighted publishers or blogs with full copied methods (for example Epicurious/Nigel Slater, Yummy Toddler Food, MJ and Hungryman)
-  - Social / Instagram saves and screenshots (stubbed conservatively)
+  - Other clearly copyrighted publishers, blogs, and booklets (for example Epicurious/Nigel Slater, Yummy Toddler Food, MJ and Hungryman, PlantYou, Whole30, Nom Nom Paleo, The Defined Dish, Well Plated, The Modern Nonna, and the Organised recipe booklet)
+  - Social / Instagram / Pinterest saves and screenshots, and pasted recipes with no clear author (stubbed conservatively)
+- A household adaptation of a third-party recipe stays a stub. Keep the source link and add one line naming the change (for example "made with chicken thighs"). Do not publish the ingredient list or method.
 - Stubs keep a similar path/filename so private notes and bot mappings still work.
 
 If you have a subscription or licensed access, open `source_url` (or the named source) and cook from there. Keep any full private copies local — do not paste them into this public tree.
