@@ -4,20 +4,29 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 
 ## Counts
 
-- **Full recipes:** 59
-- **Stubs:** 164
+- **Full recipes:** 64
+- **Stubs:** 184
 - **Skipped:** 0
-- **Ambiguous stubs (conservative):** 0
+- **Ambiguous stubs (conservative):** 1
 
 ## Stubs by category
 
 - **Solid Starts:** 100
-- **NYT:** 32
+- **NYT:** 34
 - **Yummy Toddler Food:** 17
-- **MJ and Hungryman:** 9
-- **Instagram / social:** 3
-- **Other:** 2
+- **MJ and Hungryman:** 11
+- **Instagram / social:** 4
+- **Pinterest:** 1
+- **Organised booklet:** 5
+- **Whole30:** 3
+- **Nom Nom Paleo:** 2
+- **PlantYou:** 1
+- **The Defined Dish:** 1
+- **Well Plated:** 1
+- **The Modern Nonna:** 1
 - **Dumb Dinners:** 1
+- **Unattributed:** 1
+- **Other:** 1
 
 ## Full recipes
 
@@ -65,6 +74,11 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/dinner/136-fish-veggie-packets.md` — Fish and Veggie Packets _(source: USDA MyPlate Kitchen (public domain))_
 - `recipes/dinner/137-chicken-veggie-packets.md` — Chicken and Veggie Packets _(source: USDA MyPlate Kitchen (public domain))_
 - `recipes/dinner/138-baked-fish-foil.md` — Simple Baked Fish in Foil _(source: USDA MyPlate Kitchen (public domain))_
+- `recipes/dinner/156-hidden-veg-venison-bolognese.md` — Hidden-Veg Venison Bolognese _(source: Family meal planner (ground-beef bolognese adapted for venison))_
+- `recipes/dinner/157-skillet-venison-shepherds-pie-sweet-potato.md` — Skillet Venison Shepherd's Pie with Sweet Potato Top _(source: Family meal planner (ground-beef cottage pie adapted for venison))_
+- `recipes/dinner/158-mild-venison-taco-skillet-black-beans-corn.md` — Mild Venison Taco Skillet with Black Beans and Corn _(source: Family meal planner (ground-beef taco skillet adapted for venison))_
+- `recipes/dinner/159-sheet-pan-venison-meatloaf-potatoes-carrots.md` — Sheet-Pan Venison Meatloaf with Potatoes and Carrots _(source: Family meal planner (ground-beef sheet-pan meatloaf adapted for venison))_
+- `recipes/dinner/170-sheet-pan-turkey-burgers-sweet-potato-broccoli.md` — Sheet-Pan Herb Turkey Burgers with Sweet Potato Wedges and Broccoli _(source: Family meal planner (original Whole30 adaptation of a classic sheet-pan turkey burger dinner))_
 - `recipes/dinner/97-lemon-herb-baked-cod-broccoli.md` — Lemon-Herb Baked Cod with Broccoli _(source: Family meal planner)_
 - `recipes/dinner/98-one-pan-chicken-thighs-root-veg.md` — One-Pan Roasted Chicken Thighs and Root Vegetables _(source: Family meal planner)_
 - `recipes/dinner/99-coconut-lime-tofu-rice-bowls.md` — Coconut-Lime Tofu Rice Bowls _(source: Family meal planner)_
@@ -83,14 +97,20 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 
 ## Stub recipes
 
+- `recipes/adult-breakfast/bone-broth-berry-smoothie.md` — Bone Broth Berry Smoothie _(source: Organised recipe booklet)_
+- `recipes/adult-snack/sleepy-milk.md` — Sleepy Milk _(source: Organised recipe booklet)_
 - `recipes/bakes/abc-baby-muffins.md` — ABC Baby Muffins (Apple, Banana, and Carrot) _(source: Yummy Toddler Food)_ — https://www.yummytoddlerfood.com/baby-muffins/
 - `recipes/bakes/apple-oatmeal-muffins.md` — Apple Oatmeal Muffins _(source: Yummy Toddler Food)_ — https://www.yummytoddlerfood.com/apple-oatmeal-muffins/
+- `recipes/bakes/applesauce-muffins.md` — Applesauce Muffins _(source: MJ and Hungryman (Min Kwon))_ — https://www.mjandhungryman.com/applesauce-muffins/
+- `recipes/bakes/banana-almond-flour-muffins.md` — Moist Banana & Almond Flour Muffins _(source: Unattributed pasted recipe (original author unknown))_
 - `recipes/bakes/banana-yogurt-muffins.md` — Banana Yogurt Muffins _(source: Yummy Toddler Food)_ — https://www.yummytoddlerfood.com/banana-yogurt-muffins/
 - `recipes/bakes/blueberry-oat-muffins.md` — Blueberry Oat Muffins _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/bakes/blueberry-oatmeal-bars.md` — Blueberry Oatmeal Bars _(source: Yummy Toddler Food)_ — https://www.yummytoddlerfood.com/blueberry-oatmeal-bars/
 - `recipes/bakes/chocolate-protein-muffins.md` — Chocolate Protein Muffins _(source: Yummy Toddler Food)_ — https://www.yummytoddlerfood.com/flourless-cocoa-protein-muffins/
 - `recipes/bakes/egg-cheese-mini-muffins.md` — Mini Egg Muffins with Cheese and Veggies _(source: Yummy Toddler Food)_ — https://www.yummytoddlerfood.com/egg-and-cheese-mini-muffins/
+- `recipes/bakes/grab-and-go-breakfast-cookies.md` — Grab & Go Breakfast Cookies _(source: Pinterest (user-uploaded recipe card, original author unknown))_ — https://www.pinterest.com/pin/304555993576232345/
 - `recipes/bakes/lunchbox-harvest-muffins.md` — Lunchbox Harvest Muffins _(source: New York Times Cooking (Melissa Clark))_ — https://cooking.nytimes.com/recipes/1015211-lunchbox-harvest-muffins
+- `recipes/bakes/organ-bounty-bars.md` — Organ Bounty Bars _(source: Organised recipe booklet)_
 - `recipes/bakes/spinach-banana-muffins.md` — Sweet Spinach Muffins with Banana _(source: Yummy Toddler Food)_ — https://www.yummytoddlerfood.com/super-green-banana-spinach-muffins/
 - `recipes/breakfast/03-black-bean-bowl.md` — Black Bean Bowl _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/07-coconut-chia-seed-pudding.md` — Coconut Chia Seed Pudding _(source: Solid Starts Breakfast)_ — https://solidstarts.com
@@ -113,6 +133,7 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/breakfast/44-broccoli-swiss-cheese-egg-cups.md` — Broccoli Swiss Cheese Egg Cups _(source: Solid Starts Breakfast)_ — https://solidstarts.com
 - `recipes/breakfast/48-carrot-banana-pancakes.md` — Carrot and Banana Pancakes _(source: Instagram (@yummy_little_belly))_
 - `recipes/breakfast/50-easy-breakfast-muffins.md` — Easy Breakfast Muffins _(source: Instagram (@yummy_little_belly))_
+- `recipes/breakfast/animal-based-pancakes.md` — Animal Based Pancakes with Caramelised Banana _(source: Organised recipe booklet)_
 - `recipes/breakfast/veggie-egg-muffins.md` — Veggie Egg Muffins _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/brunch/01-mediterranean-escape-spread.md` — 25-Minute Mediterranean Escape Spread _(source: Social media (screenshot))_
 - `recipes/bundt-cakes/rosemary-olive-oil-orange-cake.md` — Rosemary, Olive Oil and Orange Cake _(source: New York Times Cooking (Yotam Ottolenghi))_ — https://cooking.nytimes.com/recipes/1018649-rosemary-olive-oil-and-orange-cake
@@ -146,7 +167,7 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/dinner/116-crispy-sheet-pan-noodles-glazed-tofu.md` — Crispy Sheet-Pan Noodles With Glazed Tofu _(source: New York Times Cooking (Hetty Lui McKinnon))_ — https://cooking.nytimes.com/recipes/1022637-crispy-sheet-pan-noodles-with-glazed-tofu
 - `recipes/dinner/117-stir-fried-chicken-ketchup.md` — Stir-Fried Chicken With Ketchup _(source: New York Times Cooking (Mark Bittman))_ — https://cooking.nytimes.com/recipes/7878-stir-fried-chicken-with-ketchup
 - `recipes/dinner/118-veggie-orzo.md` — Veggie Orzo _(source: Yummy Toddler Food (Amy Palanjian))_ — https://www.yummytoddlerfood.com/veggie-orzo-20-minute/
-- `recipes/dinner/119-sweet-potato-rice-balls.md` — Sweet Potato Rice Balls (with scrambled egg + seaweed) _(source: '@kidfriendly.meals (Instagram reel) — amounts estimated; reel had no written)_ — https://www.instagram.com/reel/Dc4GtM4xUMQ/
+- `recipes/dinner/119-sweet-potato-rice-balls.md` — Sweet Potato Rice Balls (with scrambled egg + seaweed) _(source: @kidfriendly.meals (Instagram reel) — amounts estimated; reel had no written card)_ — https://www.instagram.com/reel/Dc4GtM4xUMQ/
 - `recipes/dinner/12-chickpeas-and-tomatoes-with-north-african-spices-and-yogurt.md` — North African Spiced Chickpeas and Tomatoes with Yogurt _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/dinner/120-shrimp-broccoli-stir-fry.md` — Shrimp and Broccoli Stir Fry _(source: MJ and Hungryman)_ — https://www.mjandhungryman.com/shrimp-and-broccoli-stir-fry/
 - `recipes/dinner/121-poached-cod-creamy-orzo.md` — Poached Cod with Creamy Orzo _(source: MJ and Hungryman)_ — https://www.mjandhungryman.com/poached-cod-with-orzo/
@@ -179,7 +200,20 @@ Generated for staging folder `/workspace/meal-plan-recipes-public`.
 - `recipes/dinner/152-rotisserie-chicken-greens-pasta.md` — Rotisserie Chicken and Greens Pasta _(source: New York Times Cooking (Christian Reynoso))_ — https://cooking.nytimes.com/recipes/1023870-rotisserie-chicken-and-greens-pasta
 - `recipes/dinner/153-chicken-enchiladas.md` — Chicken Enchiladas _(source: New York Times Cooking (Rick Martínez))_ — https://cooking.nytimes.com/recipes/1024437-chicken-enchiladas
 - `recipes/dinner/154-crispy-wonton-chicken-salad.md` — Crispy Wonton Chicken Salad _(source: New York Times Cooking (Eric Kim))_ — https://cooking.nytimes.com/recipes/1023286-crispy-wonton-chicken-salad
+- `recipes/dinner/155-teriyaki-salmon-bowl.md` — Teriyaki Salmon Bowl _(source: MJ and Hungryman (Min Kwon), via Instagram @kidfriendly.meals)_ — https://www.mjandhungryman.com/salmon-teriyaki-bowl/
+- `recipes/dinner/160-chicken-soup-in-a-pumpkin.md` — Chicken Soup in a Pumpkin _(source: The Modern Nonna)_ — https://themodernnonna.com/chicken-soup-in-a-pumpkin/
+- `recipes/dinner/161-sheet-pan-chicken-sweet-potatoes-fennel.md` — Sheet-Pan Chicken With Sweet Potatoes and Fennel _(source: NYT Cooking (Yewande Komolafe))_ — https://cooking.nytimes.com/recipes/1019861-sheet-pan-chicken-with-sweet-potatoes-and-fennel
+- `recipes/dinner/162-feta-frittata.md` — Feta Frittata _(source: NYT Cooking (Yotam Ottolenghi), adapted from "Ottolenghi Simple Too" (Ten Speed Press, 2026))_ — https://cooking.nytimes.com/recipes/791897650-feta-frittata
+- `recipes/dinner/163-greek-sheet-pan-chicken.md` — Greek Sheet Pan Chicken _(source: Nom Nom Paleo (Michelle Tam))_ — https://nomnompaleo.com/greek-sheet-pan-chicken
+- `recipes/dinner/164-one-pan-roasted-chicken-ratatouille.md` — One-Pan Roasted Chicken Ratatouille _(source: The Defined Dish (Alex Snodgrass))_ — https://thedefineddish.com/one-pan-roasted-chicken-ratatouille/
+- `recipes/dinner/165-whole30-turkey-spinach-egg-casserole.md` — Whole30 Breakfast Casserole (Turkey, Spinach & Potato Egg Bake) _(source: Well Plated (Erin Clarke))_ — https://www.wellplated.com/whole30-breakfast-casserole/
+- `recipes/dinner/166-sheet-pan-salmon-pesto-asparagus.md` — Sheet Pan Salmon with Pesto and Asparagus _(source: Nom Nom Paleo (Michelle Tam))_ — https://nomnompaleo.com/sheet-pan-salmon-supper
+- `recipes/dinner/167-creamy-tuscan-style-cod.md` — Creamy Tuscan-Style Cod _(source: Whole30 (Liz Parrent))_ — https://whole30.com/recipes/creamy-tuscan-style-cod/
+- `recipes/dinner/168-whole30-taco-stuffed-sweet-potatoes-venison.md` — Taco Stuffed Sweet Potatoes (Venison) _(source: Whole30 (Michael Beasley), ground beef adapted 1:1 to ground venison)_ — https://whole30.com/recipes/whole30-taco-stuffed-sweet-potatoes/
+- `recipes/dinner/169-whole30-egg-roll-in-a-bowl-venison.md` — Egg Roll in a Bowl (Venison) _(source: Whole30 (Michael Beasley), ground meat made with ground venison)_ — https://whole30.com/recipes/whole30-egg-roll-in-a-bowl/
 - `recipes/dinner/17-pasta-e-ceci.md` — Pasta e Ceci (Pasta and Chickpeas) _(source: Solid Starts)_ — https://solidstarts.com
+- `recipes/dinner/171-beef-organ-bolognese.md` — Beef Organ Bolognese with Courgetti _(source: Organised recipe booklet)_
+- `recipes/dinner/172-one-pot-chicken-pot-pie.md` — One-Dish Chicken Pot Pie with Chickpeas (adapted from PlantYou Veggie Pot Pie) _(source: PlantYou (Carleigh Bodrug), Veggie Pot Pie, adapted with chicken)_ — https://plantyou.com/veggie-pot-pie/
 - `recipes/dinner/18-savory-chickpea-pancakes-with-garlicky-spinach-and-yogurt.md` — Savory Chickpea Pancakes with Garlicky Spinach and Yogurt _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/dinner/19-tingly-tofu-coconut-rice.md` — Tingly Tofu + Coconut Rice _(source: Solid Starts)_ — https://solidstarts.com
 - `recipes/dinner/20-tofu-nuggets-with-avocado-yogurt-dip.md` — Tofu Nuggets with Avocado Yogurt Dip _(source: Solid Starts)_ — https://solidstarts.com
